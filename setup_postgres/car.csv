@@ -1,0 +1,23 @@
+car_id,make,model,safety_rating,price,parent_company,image_url,website
+0,Ford,Escape,5,39024,Ford Motor Co.,image_url,website_url
+1,Ford,Mustang,5,28103,Ford Motor Co.,image_url,website_url
+2,Ford,Fusion,4,28287,Ford Motor Co.,image_url,website_url
+3,GMC,Terrian,4,37169,General Motors,image_url,website_url
+4,Genesis,G70,4,26834,Hyundai Motor Group,image_url,website_url
+5,Honda,Civic,5,37735,Honda Motor Co.,image_url,website_url
+6,Honda,Accord,5,34954,Honda Motor Co.,image_url,website_url
+7,Honda,CR-V,5,29789,Honda Motor Co.,image_url,website_url
+8,Honda,Fit,4,25338,Honda Motor Co.,image_url,website_url
+9,Hyundai,Elantra HEV,5,23968,Hyundai Motor Group,image_url,website_url
+10,Hyundai,Sonnata,5,20848,Hyundai Motor Group,image_url,website_url
+11,Hyundai,tuscon,5,36674,Hyundai Motor Group,image_url,website_url
+12,Infiniti,QX55,4,39369,Renault-Nissan-Mitsubishi Alliance,image_url,website_url
+13,Kia,Soul,4,21654,Hyundai Motor Group,image_url,website_url
+14,Kia,Sorento,4,38132,Hyundai Motor Group,image_url,website_url
+15,Kia,K5,4,31195,Hyundai Motor Group,image_url,website_url
+16,Jaguar,XE,4,25343,Tata Motors,image_url,website_url
+17,Jeep,Wrangler,4,30449,Stellantis,image_url,website_url
+18,Jeep,Cherokee,4,27092,Stellantis,image_url,website_url
+19,Jeep,Compass,4,20460,Stellantis,image_url,website_url
+20,Lexus,ES,5,35924,Toyota Motor Group,image_url,website_url
+21,Lexus,RX,5,25628,Toyota Motor Group,image_url,website_url
