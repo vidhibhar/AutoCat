@@ -6,7 +6,7 @@ Vidhi Bhargava
 
 
 ## **Detailed Application Requirements**
-For our application, we developed AutoCat, a car catalog website that can be used by first time car buyers who are not sure about what cars meet their preference. The purpose of this application is to allow the user to narrow their search for cars they’re interested in. The factors we have included in our application to help customers are: make/model, price, fuel type, number of doors, drive wheels, body style, safety and more. After deciding on a car best fit for themselves, our users can click on the link that will directly take them to purchase the car from the original supplier.
+For my application, I developed AutoCat, a car catalog website that can be used by first time car buyers who are not sure about what cars meet their preference. The purpose of this application is to allow the user to narrow their search for cars they’re interested in. The factors I have included in my application to help customers are: make/model, price, fuel type, number of doors, drive wheels, body style, safety and more. After deciding on a car best fit for themselves, my users can click on the link that will directly take them to purchase the car from the original supplier.
 
 ## **ER Diagram**
 ![alttext](https://github.com/vidhibhar/AutoCat/blob/47d90cb0072b71f58a3ac1f74701a13c12fc305d/pics/ER.PNG)
